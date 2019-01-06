@@ -1,5 +1,15 @@
 package game;
 
-public class Bubble {
 
+public class Bubble 
+{
+	private String color;
+	
+	
+	// Constructor
+	public Bubble()
+	{
+		
+	}
+	
 }
